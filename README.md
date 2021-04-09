@@ -7,7 +7,8 @@
 
 ## Sierpinski
 
-![](sierpinski/prints/sierpinski-1.svg)
+![](sierpinski/prints/sierpinski.png)
+![](sierpinski/prints/sierpinski-plotter.svg)
 
 ## Gestalt
 
